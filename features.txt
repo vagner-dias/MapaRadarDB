@@ -1,0 +1,247 @@
+Enabled Permissions
+List of permissions that are explicitly enabled.
+
+Sign in to the server
+Sign in using email alias addresses
+Interact with AI models
+Email: Send emails
+Email: Receive emails
+Calendar: Send calendar alarm notifications via email
+Calendar: Send calendar invitations and updates via email
+Calendar: Process incoming calendar invitations and replies
+JMAP: Retrieve push subscription details
+JMAP: Create new push subscriptions
+JMAP: Modify existing push subscriptions
+JMAP: Remove push subscriptions
+JMAP: Retrieve mailbox details and properties
+JMAP: Track changes to mailboxes since a given state
+JMAP: Search for mailboxes matching criteria
+JMAP: Track changes to mailbox query results
+JMAP: Create new mailboxes
+JMAP: Modify existing mailboxes
+JMAP: Remove mailboxes
+JMAP: Retrieve email thread details
+JMAP: Track changes to threads since a given state
+JMAP: Retrieve email details and properties
+JMAP: Track changes to emails since a given state
+JMAP: Search for emails matching criteria
+JMAP: Track changes to email query results
+JMAP: Create new emails
+JMAP: Modify existing emails
+JMAP: Remove emails
+JMAP: Copy emails to another account
+JMAP: Import emails from blob data
+JMAP: Parse raw email data without storing
+JMAP: Retrieve search result snippets for emails
+JMAP: Retrieve sender identity details
+JMAP: Track changes to identities since a given state
+JMAP: Create new sender identities
+JMAP: Modify existing sender identities
+JMAP: Remove sender identities
+JMAP: Retrieve email submission details
+JMAP: Track changes to email submissions since a given state
+JMAP: Search for email submissions matching criteria
+JMAP: Track changes to email submission query results
+JMAP: Create new email submissions for sending
+JMAP: Modify existing email submissions
+JMAP: Remove email submissions
+JMAP: Retrieve vacation response configuration
+JMAP: Create vacation response settings
+JMAP: Modify vacation response settings
+JMAP: Remove vacation response settings
+JMAP: Retrieve Sieve filter script details
+JMAP: Search for Sieve scripts matching criteria
+JMAP: Validate a Sieve script without storing
+JMAP: Create new Sieve filter scripts
+JMAP: Modify existing Sieve filter scripts
+JMAP: Remove Sieve filter scripts
+JMAP: Retrieve principal details and properties
+JMAP: Search for principals matching criteria
+JMAP: Track changes to principals since a given state
+JMAP: Track changes to principal query results
+JMAP: Query availability information for principals
+JMAP: Create new principals
+JMAP: Modify existing principals
+JMAP: Remove principals
+JMAP: Retrieve quota usage and limits
+JMAP: Track changes to quotas since a given state
+JMAP: Search for quotas matching criteria
+JMAP: Track changes to quota query results
+JMAP: Download blob data
+JMAP: Copy blobs to another account
+JMAP: Look up blob usage across data types
+JMAP: Upload new blob data
+JMAP: Retrieve address book details and properties
+JMAP: Track changes to address books since a given state
+JMAP: Create new address books
+JMAP: Modify existing address books
+JMAP: Remove address books
+JMAP: Retrieve contact card details
+JMAP: Track changes to contact cards since a given state
+JMAP: Search for contact cards matching criteria
+JMAP: Track changes to contact card query results
+JMAP: Create new contact cards
+JMAP: Modify existing contact cards
+JMAP: Remove contact cards
+JMAP: Copy contact cards to another account
+JMAP: Parse raw contact card data without storing
+JMAP: Retrieve file node details and properties
+JMAP: Track changes to file nodes since a given state
+JMAP: Search for file nodes matching criteria
+JMAP: Track changes to file node query results
+JMAP: Create new file nodes
+JMAP: Modify existing file nodes
+JMAP: Remove file nodes
+JMAP: Retrieve share notification details
+JMAP: Track changes to share notifications since a given state
+JMAP: Search for share notifications matching criteria
+JMAP: Track changes to share notification query results
+JMAP: Create new share notifications
+JMAP: Modify existing share notifications
+JMAP: Remove share notifications
+JMAP: Retrieve calendar details and properties
+JMAP: Track changes to calendars since a given state
+JMAP: Create new calendars
+JMAP: Modify existing calendars
+JMAP: Remove calendars
+JMAP: Retrieve calendar event details
+JMAP: Track changes to calendar events since a given state
+JMAP: Search for calendar events matching criteria
+JMAP: Track changes to calendar event query results
+JMAP: Create new calendar events
+JMAP: Modify existing calendar events
+JMAP: Remove calendar events
+JMAP: Copy calendar events to another account
+JMAP: Parse raw calendar event data without storing
+JMAP: Retrieve calendar event notification details
+JMAP: Track changes to calendar event notifications since a given state
+JMAP: Search for calendar event notifications matching criteria
+JMAP: Track changes to calendar event notification query results
+JMAP: Create new calendar event notifications
+JMAP: Modify existing calendar event notifications
+JMAP: Remove calendar event notifications
+JMAP: Retrieve participant identity details
+JMAP: Track changes to participant identities since a given state
+JMAP: Create new participant identities
+JMAP: Modify existing participant identities
+JMAP: Remove participant identities
+JMAP: Echo back input data for testing
+IMAP: Sign in to the IMAP server
+IMAP: View mailbox access control lists
+IMAP: Modify mailbox access control lists
+IMAP: View own permissions on a mailbox
+IMAP: List available permission flags for a mailbox
+IMAP: Upload messages to a mailbox
+IMAP: Query supported IMAP extensions
+IMAP: Query server identification and version
+IMAP: Copy messages between mailboxes
+IMAP: Move messages between mailboxes
+IMAP: Create new mailboxes
+IMAP: Delete mailboxes or mark messages for deletion
+IMAP: Activate optional IMAP extensions
+IMAP: Permanently remove messages marked for deletion
+IMAP: Download message content and metadata
+IMAP: Receive real-time notifications for mailbox changes
+IMAP: List available mailboxes and their attributes
+IMAP: List mailboxes the user is subscribed to
+IMAP: Query available mailbox namespace prefixes
+IMAP: Rename or move mailboxes
+IMAP: Search messages by criteria
+IMAP: Retrieve messages in a specified sort order
+IMAP: Open a mailbox for read-write access
+IMAP: Open a mailbox for read-only access
+IMAP: Query mailbox message counts and state
+IMAP: Set or clear message flags (read, flagged, deleted, etc.)
+IMAP: Subscribe or unsubscribe to mailboxes
+IMAP: Group messages into conversation threads
+POP3: Sign in to the POP3 server
+POP3: List messages and their sizes
+POP3: Retrieve unique message identifiers
+POP3: Query mailbox message count and total size
+POP3: Download message content
+POP3: Mark messages for deletion on disconnect
+ManageSieve: Sign in to the ManageSieve server
+ManageSieve: List uploaded Sieve scripts
+ManageSieve: Designate which Sieve script is active
+ManageSieve: Download Sieve script content
+ManageSieve: Upload or replace a Sieve script
+ManageSieve: Remove a Sieve script
+ManageSieve: Rename a Sieve script
+ManageSieve: Validate Sieve script syntax without saving
+ManageSieve: Check if quota allows uploading a script of a given size
+WebDAV: Synchronize collection changes with client
+WebDAV: Expand properties that reference other resources
+WebDAV: Manage access control properties on principals
+WebDAV: List available principals in the system
+WebDAV: Match principals based on specified criteria
+WebDAV: Search for principals by property values
+WebDAV: Query which properties can be searched on principals
+WebDAV: Retrieve properties of file resources
+WebDAV: Modify properties of file resources
+WebDAV: Download file resources
+WebDAV: Create new file collections or directories
+WebDAV: Remove file resources
+WebDAV: Upload or modify file resources
+WebDAV: Copy file resources to new locations
+WebDAV: Move file resources to new locations
+WebDAV: Lock file resources to prevent concurrent modifications
+WebDAV: Manage access control lists for file resources
+WebDAV: Retrieve properties of address book entries
+WebDAV: Modify properties of address book entries
+WebDAV: Download address book entries
+WebDAV: Create new address book collections
+WebDAV: Remove address book entries or collections
+WebDAV: Upload or modify address book entries
+WebDAV: Copy address book entries to new locations
+WebDAV: Move address book entries to new locations
+WebDAV: Lock address book entries to prevent concurrent modifications
+WebDAV: Manage access control lists for address book entries
+WebDAV: Search for address book entries matching criteria
+WebDAV: Retrieve multiple address book entries in a single request
+WebDAV: Retrieve properties of calendar entries
+WebDAV: Modify properties of calendar entries
+WebDAV: Download calendar entries
+WebDAV: Create new calendar collections
+WebDAV: Remove calendar entries or collections
+WebDAV: Upload or modify calendar entries
+WebDAV: Copy calendar entries to new locations
+WebDAV: Move calendar entries to new locations
+WebDAV: Lock calendar entries to prevent concurrent modifications
+WebDAV: Manage access control lists for calendar entries
+WebDAV: Search for calendar entries matching criteria
+WebDAV: Retrieve multiple calendar entries in a single request
+WebDAV: Query free/busy time information for scheduling
+Settings: Get account password settings
+Settings: Update account password settings
+Settings: Get account settings settings
+Settings: Update account settings settings
+API keys Management: Get API keys
+API keys Management: Create API keys
+API keys Management: Update API keys
+API keys Management: Destroy API keys
+API keys Management: Query API keys
+App passwords Management: Get App passwords
+App passwords Management: Create App passwords
+App passwords Management: Update App passwords
+App passwords Management: Destroy App passwords
+App passwords Management: Query App passwords
+Archived items Management: Get archived items
+Archived items Management: Create archived items
+Archived items Management: Update archived items
+Archived items Management: Destroy archived items
+Archived items Management: Query archived items
+Masked emails Management: Get masked emails
+Masked emails Management: Create masked emails
+Masked emails Management: Update masked emails
+Masked emails Management: Destroy masked emails
+Masked emails Management: Query masked emails
+Public keys Management: Get public keys
+Public keys Management: Create public keys
+Public keys Management: Update public keys
+Public keys Management: Destroy public keys
+Public keys Management: Query public keys
+Samples Management: Get samples
+Samples Management: Update samples
+Samples Management: Destroy samples
+Samples Management: Query samples
+JMAP: Copy file nodes to another account
